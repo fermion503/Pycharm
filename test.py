@@ -1,5 +1,5 @@
-# Github에 업로그하기 위한 테스트 파일입니다.
+import class_practice
 
-hello = "Hello World"
+p1 = class_practice.Human("영훈",20,60)
 
-print(hello)
+p1.walking("설악산")
